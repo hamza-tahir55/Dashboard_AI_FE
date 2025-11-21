@@ -19,8 +19,8 @@ def load_data():
         st.error(f"❌ Error parsing JSON: {e}")
         return None
 
-def send_chat_request(kpi_data_g1, add_data_g1, kpi_data_g2, add_data_g2, question):
-    """Send request to chat endpoint"""
+def send_chat_request(kpi_data_g1, add_data_g1, kpi_data_g2, add_data_g2, question, session_id=None):
+    """Send request to chat endpoint with session management"""
     payload = {
         "kpi_data_g1": kpi_data_g1,
         "add_data_g1": add_data_g1,
@@ -28,6 +28,10 @@ def send_chat_request(kpi_data_g1, add_data_g1, kpi_data_g2, add_data_g2, questi
         "add_data_g2": add_data_g2,
         "question": question
     }
+    
+    # Add session_id if available
+    if session_id:
+        payload["session_id"] = session_id
     
     try:
         response = requests.post(
@@ -109,8 +113,15 @@ def main():
     # Chat interface
     st.header("💬 Financial Chat")
     
+    # Initialize session state for chat and session management
     if "messages" not in st.session_state:
         st.session_state.messages = []
+    
+    if "session_id" not in st.session_state:
+        st.session_state.session_id = None
+    
+    if "session_info" not in st.session_state:
+        st.session_state.session_info = None
     
     # Display chat messages
     for message in st.session_state.messages:
@@ -128,13 +139,42 @@ def main():
         with st.chat_message("assistant"):
             with st.spinner("🤔 Analyzing your financial data..."):
                 response = send_chat_request(
-                    kpi_data_g1, add_data_g1, kpi_data_g2, add_data_g2, prompt
+                    kpi_data_g1, add_data_g1, kpi_data_g2, add_data_g2, prompt, st.session_state.session_id
                 )
                 
                 if response:
                     ai_response = response.get('response', 'No response available')
                     st.markdown(ai_response)
                     st.session_state.messages.append({"role": "assistant", "content": ai_response})
+                    
+                    # Handle session management
+                    if 'session_id' in response:
+                        # Store session ID for future requests
+                        st.session_state.session_id = response['session_id']
+                        
+                        # Show session info for new sessions
+                        if response.get('is_new_session', False):
+                            st.success(f"🆕 New session started: {response['session_id'][:8]}...")
+                            st.session_state.session_info = {
+                                'session_id': response['session_id'],
+                                'is_new': True,
+                                'started_at': datetime.now()
+                            }
+                        
+                        # Display session info in sidebar
+                        with st.sidebar:
+                            st.divider()
+                            st.header("🔑 Session Info")
+                            st.write(f"Session ID: `{response['session_id'][:8]}...`")
+                            st.write(f"Started: {st.session_state.session_info['started_at'].strftime('%H:%M:%S')}")
+                            st.write(f"Messages: {len(st.session_state.messages) // 2}")
+                            
+                            # Add button to reset session
+                            if st.button("🔄 Reset Session", type="secondary"):
+                                st.session_state.session_id = None
+                                st.session_state.session_info = None
+                                st.session_state.messages = []
+                                st.rerun()
                     
                     # Update token stats
                     if 'tokens' in response:
