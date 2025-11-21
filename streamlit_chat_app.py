@@ -5,6 +5,20 @@ import pandas as pd
 from datetime import datetime
 import plotly.graph_objects as go
 import plotly.express as px
+import re
+
+# Normalize AI text to avoid Markdown underscore merging and missing spaces
+def normalize_ai_text(text: str) -> str:
+    if not isinstance(text, str):
+        return str(text)
+    # Replace one or more underscores with single spaces (e.g., in_net_sales → in net sales)
+    text = re.sub(r"[_]+", " ", text)
+    # Ensure spacing after commas and periods when missing
+    text = re.sub(r",(?=\S)", ", ", text)
+    text = re.sub(r"\.(?=\S)", ". ", text)
+    # Collapse excessive whitespace
+    text = re.sub(r"\s{2,}", " ", text)
+    return text.strip()
 
 def load_data():
     """Load the financial data from data.json"""
@@ -35,7 +49,7 @@ def send_chat_request(kpi_data_g1, add_data_g1, kpi_data_g2, add_data_g2, questi
     
     try:
         response = requests.post(
-            'https://dashboard-ai-production.up.railway.app/chat',
+            'http://127.0.0.1:8080/chat',
             json=payload,
             headers={'Content-Type': 'application/json'}
         )
@@ -216,8 +230,9 @@ def main():
                 
                 if response:
                     ai_response = response.get('response', 'No response available')
-                    st.markdown(ai_response)
-                    st.session_state.messages.append({"role": "assistant", "content": ai_response})
+                    rendered_response = normalize_ai_text(ai_response)
+                    st.markdown(rendered_response)
+                    st.session_state.messages.append({"role": "assistant", "content": rendered_response})
                     
                     # Handle session management
                     if 'session_id' in response:
