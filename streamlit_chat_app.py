@@ -49,7 +49,7 @@ def send_chat_request(kpi_data_g1, add_data_g1, kpi_data_g2, add_data_g2, questi
     
     try:
         response = requests.post(
-            'http://127.0.0.1:8080/chat',
+            'https://dashboard-ai-production.up.railway.app/chat',
             json=payload,
             headers={'Content-Type': 'application/json'}
         )
