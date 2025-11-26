@@ -6,6 +6,7 @@ from datetime import datetime
 import plotly.graph_objects as go
 import plotly.express as px
 import re
+import html
 
 # Normalize AI text to avoid Markdown underscore merging and missing spaces
 def normalize_ai_text(text: str) -> str:
@@ -13,12 +14,23 @@ def normalize_ai_text(text: str) -> str:
         return str(text)
     # Replace one or more underscores with single spaces (e.g., in_net_sales → in net sales)
     text = re.sub(r"[_]+", " ", text)
+    # Insert spaces between letter-number and number-letter boundaries
+    text = re.sub(r"([A-Za-z])([0-9])", r"\1 \2", text)
+    text = re.sub(r"([0-9])([A-Za-z])", r"\1 \2", text)
+    # Insert spaces between lowercase-uppercase boundaries (camelCase/glued words)
+    text = re.sub(r"([a-z])([A-Z])", r"\1 \2", text)
     # Ensure spacing after commas and periods when missing
     text = re.sub(r",(?=\S)", ", ", text)
     text = re.sub(r"\.(?=\S)", ". ", text)
     # Collapse excessive whitespace
     text = re.sub(r"\s{2,}", " ", text)
     return text.strip()
+
+# Render AI text as HTML-escaped plain text to avoid Markdown side effects
+def render_ai_text(text: str):
+    cleaned = normalize_ai_text(text)
+    safe = html.escape(cleaned)
+    st.markdown(f"<div style='white-space:pre-wrap; line-height:1.5'>{safe}</div>", unsafe_allow_html=True)
 
 def load_data():
     """Load the financial data from data.json"""
@@ -49,7 +61,7 @@ def send_chat_request(kpi_data_g1, add_data_g1, kpi_data_g2, add_data_g2, questi
     
     try:
         response = requests.post(
-            'https://dashboard-ai-production.up.railway.app/chat',
+            'http://127.0.0.1:8080/chat',
             json=payload,
             headers={'Content-Type': 'application/json'}
         )
@@ -180,7 +192,10 @@ def main():
     # Display chat messages
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+            if message["role"] == "assistant":
+                render_ai_text(message["content"])
+            else:
+                st.markdown(message["content"])
     
     # Chat input
     if prompt := st.chat_input("Ask a financial question..."):
@@ -230,9 +245,9 @@ def main():
                 
                 if response:
                     ai_response = response.get('response', 'No response available')
-                    rendered_response = normalize_ai_text(ai_response)
-                    st.markdown(rendered_response)
-                    st.session_state.messages.append({"role": "assistant", "content": rendered_response})
+                    render_ai_text(ai_response)
+                    # Store raw response; normalize at render time
+                    st.session_state.messages.append({"role": "assistant", "content": ai_response})
                     
                     # Handle session management
                     if 'session_id' in response:
