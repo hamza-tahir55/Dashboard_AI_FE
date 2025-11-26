@@ -5,117 +5,1173 @@
       "start_date": "31-05-2019",
       "end_date": "30-11-2025",
       "sum_values": [
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 100},
-        {"date": "Feb 2024", "amount": 1284},
-        {"date": "Mar 2024", "amount": 3000},
-        {"date": "Apr 2024", "amount": 250},
-        {"date": "May 2024", "amount": 5625},
-        {"date": "Jun 2024", "amount": -400},
-        {"date": "Jul 2024", "amount": 12186},
-        {"date": "Aug 2024", "amount": 9384},
-        {"date": "Sep 2024", "amount": 5200},
-        {"date": "Oct 2024", "amount": 3801},
-        {"date": "Nov 2024", "amount": 0},
-        {"date": "Dec 2024", "amount": 0},
-        {"date": "Jan 2025", "amount": 0},
-        {"date": "Feb 2025", "amount": 15.6},
-        {"date": "Mar 2025", "amount": 0},
-        {"date": "Apr 2025", "amount": 0},
-        {"date": "May 2025", "amount": 0},
-        {"date": "Jun 2025", "amount": 0},
-        {"date": "Jul 2025", "amount": 0},
-        {"date": "Aug 2025", "amount": 0},
-        {"date": "Sep 2025", "amount": 0},
-        {"date": "Oct 2025", "amount": 0},
-        {"date": "Nov 2025", "amount": 0}
+        {
+          "date": "31-12-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2020",
+          "amount": 155815.0
+        },
+        {
+          "date": "31-12-2019",
+          "amount": 43790.0
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 3801.0
+        },
+        {
+          "date": "31-10-2023",
+          "amount": 875.0
+        },
+        {
+          "date": "31-10-2022",
+          "amount": 100.0
+        },
+        {
+          "date": "31-10-2021",
+          "amount": 5.0
+        },
+        {
+          "date": "31-10-2020",
+          "amount": 64404.0
+        },
+        {
+          "date": "31-10-2019",
+          "amount": 30453.0
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 9384.0
+        },
+        {
+          "date": "31-08-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2022",
+          "amount": 450.0
+        },
+        {
+          "date": "31-08-2021",
+          "amount": 200.0
+        },
+        {
+          "date": "31-08-2020",
+          "amount": 73383.0
+        },
+        {
+          "date": "31-08-2019",
+          "amount": 36765.0
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 12186.0
+        },
+        {
+          "date": "31-07-2023",
+          "amount": 197.0
+        },
+        {
+          "date": "31-07-2022",
+          "amount": 680.0
+        },
+        {
+          "date": "31-07-2021",
+          "amount": 50.0
+        },
+        {
+          "date": "31-07-2020",
+          "amount": 56576.0
+        },
+        {
+          "date": "31-07-2019",
+          "amount": 26358.0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 5625.0
+        },
+        {
+          "date": "31-05-2023",
+          "amount": -43.0
+        },
+        {
+          "date": "31-05-2022",
+          "amount": 641.0
+        },
+        {
+          "date": "31-05-2021",
+          "amount": 30.0
+        },
+        {
+          "date": "31-05-2020",
+          "amount": 51292.0
+        },
+        {
+          "date": "31-05-2019",
+          "amount": 23717.0
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 3000.0
+        },
+        {
+          "date": "31-03-2023",
+          "amount": 786.0
+        },
+        {
+          "date": "31-03-2022",
+          "amount": 368.0
+        },
+        {
+          "date": "31-03-2021",
+          "amount": 99111.0
+        },
+        {
+          "date": "31-03-2020",
+          "amount": 43844.0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 100.0
+        },
+        {
+          "date": "31-01-2023",
+          "amount": 459.0
+        },
+        {
+          "date": "31-01-2022",
+          "amount": 639.0
+        },
+        {
+          "date": "31-01-2021",
+          "amount": 84629.0
+        },
+        {
+          "date": "31-01-2020",
+          "amount": 35759.0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2023",
+          "amount": 333.0
+        },
+        {
+          "date": "30-11-2022",
+          "amount": -36.0
+        },
+        {
+          "date": "30-11-2021",
+          "amount": 289.0
+        },
+        {
+          "date": "30-11-2020",
+          "amount": 70801.0
+        },
+        {
+          "date": "30-11-2019",
+          "amount": 34803.0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 5200.0
+        },
+        {
+          "date": "30-09-2023",
+          "amount": 1554.0
+        },
+        {
+          "date": "30-09-2022",
+          "amount": 316.0
+        },
+        {
+          "date": "30-09-2021",
+          "amount": 70.0
+        },
+        {
+          "date": "30-09-2020",
+          "amount": 60687.0
+        },
+        {
+          "date": "30-09-2019",
+          "amount": 29147.0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": -400.0
+        },
+        {
+          "date": "30-06-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2021",
+          "amount": 100.0
+        },
+        {
+          "date": "30-06-2020",
+          "amount": 52919.0
+        },
+        {
+          "date": "30-06-2019",
+          "amount": 23185.0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 250.0
+        },
+        {
+          "date": "30-04-2023",
+          "amount": -266.0
+        },
+        {
+          "date": "30-04-2022",
+          "amount": -103.0
+        },
+        {
+          "date": "30-04-2021",
+          "amount": 200.0
+        },
+        {
+          "date": "30-04-2020",
+          "amount": 60453.0
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 1284.0
+        },
+        {
+          "date": "29-02-2020",
+          "amount": 38164.0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 15.6
+        },
+        {
+          "date": "28-02-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2022",
+          "amount": 16.0
+        },
+        {
+          "date": "28-02-2021",
+          "amount": 88912.0
+        }
       ]
     },
     {
       "measure": "Other Income",
       "sum_values": [
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 0},
-        {"date": "Feb 2024", "amount": 0},
-        {"date": "Mar 2024", "amount": 0},
-        {"date": "Apr 2024", "amount": 0},
-        {"date": "May 2024", "amount": 0},
-        {"date": "Jun 2024", "amount": 0},
-        {"date": "Jul 2024", "amount": 0},
-        {"date": "Aug 2024", "amount": 1000},
-        {"date": "Sep 2024", "amount": 0},
-        {"date": "Oct 2024", "amount": 0},
-        {"date": "Nov 2024", "amount": 0},
-        {"date": "Dec 2024", "amount": 0},
-        {"date": "Jan 2025", "amount": 0},
-        {"date": "Feb 2025", "amount": 0},
-        {"date": "Mar 2025", "amount": 0},
-        {"date": "Apr 2025", "amount": 0},
-        {"date": "May 2025", "amount": 0},
-        {"date": "Jun 2025", "amount": 0},
-        {"date": "Jul 2025", "amount": 0},
-        {"date": "Aug 2025", "amount": 0},
-        {"date": "Sep 2025", "amount": 0},
-        {"date": "Oct 2025", "amount": 0},
-        {"date": "Nov 2025", "amount": 0}
+        {
+          "date": "31-12-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2020",
+          "amount": 210.0
+        },
+        {
+          "date": "31-12-2019",
+          "amount": 29.0
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2020",
+          "amount": 215.0
+        },
+        {
+          "date": "31-10-2019",
+          "amount": 24.0
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 1000.0
+        },
+        {
+          "date": "31-08-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2020",
+          "amount": 149.0
+        },
+        {
+          "date": "31-08-2019",
+          "amount": 14.0
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2020",
+          "amount": 117.0
+        },
+        {
+          "date": "31-07-2019",
+          "amount": 13.0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2020",
+          "amount": 80.0
+        },
+        {
+          "date": "31-05-2019",
+          "amount": 11.0
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2021",
+          "amount": 235.0
+        },
+        {
+          "date": "31-03-2020",
+          "amount": 54.0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2021",
+          "amount": 202.0
+        },
+        {
+          "date": "31-01-2020",
+          "amount": 39.0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2020",
+          "amount": 224.0
+        },
+        {
+          "date": "30-11-2019",
+          "amount": 26.0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2020",
+          "amount": 183.0
+        },
+        {
+          "date": "30-09-2019",
+          "amount": 21.0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2020",
+          "amount": 94.0
+        },
+        {
+          "date": "30-06-2019",
+          "amount": 12.0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2020",
+          "amount": 65.0
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "29-02-2020",
+          "amount": 44.0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2021",
+          "amount": 135.0
+        }
       ]
     },
     {
       "measure": "Cost of Sales",
       "sum_values": [
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 1},
-        {"date": "Feb 2024", "amount": 1},
-        {"date": "Mar 2024", "amount": 0},
-        {"date": "Apr 2024", "amount": 0},
-        {"date": "May 2024", "amount": 0},
-        {"date": "Jun 2024", "amount": -1},
-        {"date": "Jul 2024", "amount": 1},
-        {"date": "Aug 2024", "amount": 10},
-        {"date": "Sep 2024", "amount": 103},
-        {"date": "Oct 2024", "amount": 61},
-        {"date": "Nov 2024", "amount": 0},
-        {"date": "Dec 2024", "amount": 0},
-        {"date": "Jan 2025", "amount": 0},
-        {"date": "Feb 2025", "amount": 0},
-        {"date": "Mar 2025", "amount": 0},
-        {"date": "Apr 2025", "amount": 0},
-        {"date": "May 2025", "amount": 0},
-        {"date": "Jun 2025", "amount": 0},
-        {"date": "Jul 2025", "amount": 0},
-        {"date": "Aug 2025", "amount": 0},
-        {"date": "Sep 2025", "amount": 0},
-        {"date": "Oct 2025", "amount": 0},
-        {"date": "Nov 2025", "amount": 0}
+        {
+          "date": "31-12-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2020",
+          "amount": 53978.0
+        },
+        {
+          "date": "31-12-2019",
+          "amount": 28959.0
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 61.0
+        },
+        {
+          "date": "31-10-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2020",
+          "amount": 36337.0
+        },
+        {
+          "date": "31-10-2019",
+          "amount": 19180.0
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 10.0
+        },
+        {
+          "date": "31-08-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2022",
+          "amount": 1.0
+        },
+        {
+          "date": "31-08-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2020",
+          "amount": 44787.0
+        },
+        {
+          "date": "31-08-2019",
+          "amount": 24342.0
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 1.0
+        },
+        {
+          "date": "31-07-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2020",
+          "amount": 33003.0
+        },
+        {
+          "date": "31-07-2019",
+          "amount": 16755.0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2020",
+          "amount": 30735.0
+        },
+        {
+          "date": "31-05-2019",
+          "amount": 15396.0
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2021",
+          "amount": 9000.0
+        },
+        {
+          "date": "31-03-2020",
+          "amount": 27549.0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 1.0
+        },
+        {
+          "date": "31-01-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2021",
+          "amount": 44250.0
+        },
+        {
+          "date": "31-01-2020",
+          "amount": 22440.0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2020",
+          "amount": 41303.0
+        },
+        {
+          "date": "30-11-2019",
+          "amount": 21260.0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 103.0
+        },
+        {
+          "date": "30-09-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2020",
+          "amount": 33920.0
+        },
+        {
+          "date": "30-09-2019",
+          "amount": 18866.0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": -1.0
+        },
+        {
+          "date": "30-06-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2020",
+          "amount": 30632.0
+        },
+        {
+          "date": "30-06-2019",
+          "amount": 15160.0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2021",
+          "amount": 10.0
+        },
+        {
+          "date": "30-04-2020",
+          "amount": 38494.0
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 1.0
+        },
+        {
+          "date": "29-02-2020",
+          "amount": 23452.0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2021",
+          "amount": 52661.0
+        }
       ]
     },
     {
       "measure": "Expenses",
       "sum_values": [
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 0},
-        {"date": "Feb 2024", "amount": 0},
-        {"date": "Mar 2024", "amount": 0},
-        {"date": "Apr 2024", "amount": 0},
-        {"date": "May 2024", "amount": 0},
-        {"date": "Jun 2024", "amount": 0},
-        {"date": "Jul 2024", "amount": 0},
-        {"date": "Aug 2024", "amount": -500},
-        {"date": "Sep 2024", "amount": 0},
-        {"date": "Oct 2024", "amount": 0},
-        {"date": "Nov 2024", "amount": 0},
-        {"date": "Dec 2024", "amount": 0},
-        {"date": "Jan 2025", "amount": 0},
-        {"date": "Feb 2025", "amount": 0},
-        {"date": "Mar 2025", "amount": 0},
-        {"date": "Apr 2025", "amount": 0},
-        {"date": "May 2025", "amount": 0},
-        {"date": "Jun 2025", "amount": 0},
-        {"date": "Jul 2025", "amount": 0},
-        {"date": "Aug 2025", "amount": 0},
-        {"date": "Sep 2025", "amount": 0},
-        {"date": "Oct 2025", "amount": 0},
-        {"date": "Nov 2025", "amount": 0}
+        {
+          "date": "31-12-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2020",
+          "amount": 29947.0
+        },
+        {
+          "date": "31-12-2019",
+          "amount": 13929.0
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-10-2020",
+          "amount": 24274.0
+        },
+        {
+          "date": "31-10-2019",
+          "amount": 10275.0
+        },
+        {
+          "date": "31-08-2024",
+          "amount": -500.0
+        },
+        {
+          "date": "31-08-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2020",
+          "amount": 24333.0
+        },
+        {
+          "date": "31-08-2019",
+          "amount": 10823.0
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-07-2020",
+          "amount": 20449.0
+        },
+        {
+          "date": "31-07-2019",
+          "amount": 8421.0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2020",
+          "amount": 18428.0
+        },
+        {
+          "date": "31-05-2019",
+          "amount": 7275.0
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2021",
+          "amount": 16243.0
+        },
+        {
+          "date": "31-03-2020",
+          "amount": 15765.0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2021",
+          "amount": 28460.0
+        },
+        {
+          "date": "31-01-2020",
+          "amount": 12450.0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2021",
+          "amount": 48.33
+        },
+        {
+          "date": "30-11-2020",
+          "amount": 26373.0
+        },
+        {
+          "date": "30-11-2019",
+          "amount": 11110.0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2023",
+          "amount": 10.0
+        },
+        {
+          "date": "30-09-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-09-2021",
+          "amount": 50.0
+        },
+        {
+          "date": "30-09-2020",
+          "amount": 22036.0
+        },
+        {
+          "date": "30-09-2019",
+          "amount": 9653.0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2020",
+          "amount": 19471.0
+        },
+        {
+          "date": "30-06-2019",
+          "amount": 7831.0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2020",
+          "amount": 19830.0
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "29-02-2020",
+          "amount": 14208.0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2021",
+          "amount": 30741.0
+        }
       ]
     }
   ],
@@ -336,310 +1392,523 @@
           "value": []
         }
       ],
-      "tag": "Income's transactional"
+      "tag": "Income's transactional",
+      "data": {
+        "tp_invoices": [
+          {
+            "duration": "Feb 21",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Feb 21",
+                "count_inv": 2,
+                "inv_total": 88912.0,
+                "cn_total": null,
+                "total_sum": 88912.0,
+                "is_new": false
+              }
+            ]
+          }
+        ],
+        "cp_invoices": [
+          {
+            "duration": "Feb 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Feb 20",
+                "count_inv": 4,
+                "inv_total": 38104.0,
+                "total_sum": 38104.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Feb 20",
+                "count_inv": 1,
+                "inv_total": 60.0,
+                "total_sum": 60.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Mar 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer C",
+                "invoice_contact__contact_id": "e40fea09-2449-41cc-a251-6efb60cb1bf2",
+                "date": "Mar 20",
+                "count_inv": 1,
+                "inv_total": 100.0,
+                "total_sum": 100.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Mar 20",
+                "count_inv": 1,
+                "inv_total": 28768.0,
+                "total_sum": 28768.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Mar 20",
+                "count_inv": 1,
+                "inv_total": 14976.0,
+                "total_sum": 14976.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Apr 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Apr 20",
+                "count_inv": 1,
+                "inv_total": 41326.0,
+                "total_sum": 41326.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Apr 20",
+                "count_inv": 1,
+                "inv_total": 19127.0,
+                "total_sum": 19127.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "May 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "May 20",
+                "count_inv": 1,
+                "inv_total": 19437.0,
+                "total_sum": 19437.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "May 20",
+                "count_inv": 1,
+                "inv_total": 31605.0,
+                "total_sum": 31605.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Hamza Maqsood",
+                "invoice_contact__contact_id": "7c15fdce-4c6e-402f-9498-1d187d4d01d8",
+                "date": "May 20",
+                "count_inv": 1,
+                "inv_total": 250.0,
+                "total_sum": 250.0,
+                "is_new": true
+              }
+            ]
+          },
+          {
+            "duration": "Jun 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Jun 20",
+                "count_inv": 2,
+                "inv_total": 21055.0,
+                "total_sum": 21055.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Jun 20",
+                "count_inv": 1,
+                "inv_total": 31864.0,
+                "total_sum": 31864.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Jul 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Jul 20",
+                "count_inv": 1,
+                "inv_total": 22830.0,
+                "total_sum": 22830.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Jul 20",
+                "count_inv": 1,
+                "inv_total": 33746.0,
+                "total_sum": 33746.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Aug 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Aug 20",
+                "count_inv": 2,
+                "inv_total": 28683.0,
+                "total_sum": 28683.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Aug 20",
+                "count_inv": 1,
+                "inv_total": 44700.0,
+                "total_sum": 44700.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Sep 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Sep 20",
+                "count_inv": 2,
+                "inv_total": 34488.0,
+                "total_sum": 34488.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Sep 20",
+                "count_inv": 1,
+                "inv_total": 25417.0,
+                "total_sum": 25417.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Oct 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Oct 20",
+                "count_inv": 2,
+                "inv_total": 36856.0,
+                "total_sum": 36856.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Oct 20",
+                "count_inv": 1,
+                "inv_total": 27548.0,
+                "total_sum": 27548.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Nov 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Nov 20",
+                "count_inv": 3,
+                "inv_total": 31275.0,
+                "total_sum": 31075.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Nov 20",
+                "count_inv": 1,
+                "inv_total": 39726.0,
+                "total_sum": 39726.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Dec 20",
+            "value": [
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Dec 20",
+                "count_inv": 8,
+                "inv_total": 58985.0,
+                "total_sum": 58985.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Dec 20",
+                "count_inv": 2,
+                "inv_total": 36912.0,
+                "total_sum": 36912.0,
+                "is_new": false
+              }
+            ]
+          },
+          {
+            "duration": "Jan 21",
+            "value": [
+              {
+                "invoice_contact__name": "Customer C",
+                "invoice_contact__contact_id": "e40fea09-2449-41cc-a251-6efb60cb1bf2",
+                "date": "Jan 21",
+                "count_inv": 1,
+                "inv_total": 41841.0,
+                "total_sum": 41841.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer A",
+                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                "date": "Jan 21",
+                "count_inv": 5,
+                "inv_total": 8400.0,
+                "total_sum": 8400.0,
+                "is_new": false
+              },
+              {
+                "invoice_contact__name": "Customer B",
+                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                "date": "Jan 21",
+                "count_inv": 1,
+                "inv_total": 33611.0,
+                "total_sum": 33611.0,
+                "is_new": false
+              }
+            ]
+          }
+        ]
+      }
     },
     {
+      "tag": "Cost of Sale's transactional",
       "tp_invoices": [
         {
-          "duration": "Jul 24",
-          "value": []
+          "duration": "Feb 21",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Feb 21",
+              "count_inv": 1,
+              "inv_total": 52660.0,
+              "cn_total": null,
+              "total_sum": 52660.0,
+              "is_new": false
+            }
+          ]
         }
       ],
       "cp_invoices": [
         {
-          "duration": "Jul 23",
-          "value": []
+          "duration": "Feb 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Feb 20",
+              "count_inv": 1,
+              "inv_total": 23451.0,
+              "total_sum": 23451.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Aug 23",
-          "value": []
+          "duration": "Mar 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Mar 20",
+              "count_inv": 1,
+              "inv_total": 27549.0,
+              "total_sum": 27549.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Sep 23",
-          "value": []
+          "duration": "Apr 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Apr 20",
+              "count_inv": 1,
+              "inv_total": 38494.0,
+              "total_sum": 38494.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Oct 23",
-          "value": []
+          "duration": "May 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "May 20",
+              "count_inv": 1,
+              "inv_total": 30735.0,
+              "total_sum": 30735.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Nov 23",
-          "value": []
+          "duration": "Jun 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Jun 20",
+              "count_inv": 1,
+              "inv_total": 30632.0,
+              "total_sum": 30632.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Dec 23",
-          "value": []
+          "duration": "Jul 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Jul 20",
+              "count_inv": 1,
+              "inv_total": 33003.0,
+              "total_sum": 33003.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Jan 24",
-          "value": []
+          "duration": "Aug 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Aug 20",
+              "count_inv": 1,
+              "inv_total": 44786.0,
+              "total_sum": 44786.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Feb 24",
-          "value": []
+          "duration": "Sep 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Sep 20",
+              "count_inv": 1,
+              "inv_total": 33920.0,
+              "total_sum": 33920.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Mar 24",
-          "value": []
+          "duration": "Oct 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Oct 20",
+              "count_inv": 1,
+              "inv_total": 36337.0,
+              "total_sum": 36337.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Apr 24",
-          "value": []
+          "duration": "Nov 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Nov 20",
+              "count_inv": 1,
+              "inv_total": 41302.0,
+              "total_sum": 41302.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "May 24",
-          "value": []
+          "duration": "Dec 20",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Dec 20",
+              "count_inv": 1,
+              "inv_total": 53977.0,
+              "total_sum": 53977.0,
+              "is_new": false
+            }
+          ]
         },
         {
-          "duration": "Jun 24",
-          "value": []
+          "duration": "Jan 21",
+          "value": [
+            {
+              "invoice_contact__name": "V",
+              "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+              "date": "Jan 21",
+              "count_inv": 1,
+              "inv_total": 44257.0,
+              "total_sum": 44257.0,
+              "is_new": false
+            }
+          ]
         }
-      ],
-      "tag": "Cost of Sales's transactional"
+      ]
     },
     {
-      "tp_invoices": [],
-      "cp_invoices": [],
-      "tag": "Cost of Sales's transactional"
-    },
-    {
-      "account_name": "Testing Depreciation",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "ZA-HM Depreciation non",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "depreciation 4",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "ZA Depreciation",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Technology & Content",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Other operating income (Expense)",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Other Income (expense)",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Provision for Income Tax",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "New Depreciation Test acc",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Equity-method investment activity, net of tax",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Fulfillment",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Advertising & Marketing 2",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Bank Fees",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Cleaning",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Consulting & Accounting",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Depreciation new account",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Depreciation",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "New Depreciation Account",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Entertainment",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Freight & Courier",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "General & Admin Expense",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Insurance",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Interest Expense",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Legal expenses",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Light, Power, Heating",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Motor Vehicle Expenses",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Office Expenses",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Test Dep Actuals",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Printing & Stationery",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Rent",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Repairs and Maintenance",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Wages and Salaries",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Superannuation",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Subscriptions",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Telephone & Internet",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Travel - National",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Travel - International",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Bank Revaluations",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Unrealised Currency Gains",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Realised Currency Gains",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "New Depreciation",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Depreciation 2",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "Depreciation 3",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "account_name": "COGS 2",
-      "tp": 0,
-      "cp": 0
-    },
-    {
-      "tp_value": [
-        {"duration": "Jul 24", "value": 0}
-      ],
-      "cp_values": [
-        {"duration": "Jul 23", "value": 0},
-        {"duration": "Aug 23", "value": 0},
-        {"duration": "Sep 23", "value": 10},
-        {"duration": "Oct 23", "value": 0},
-        {"duration": "Nov 23", "value": 0},
-        {"duration": "Dec 23", "value": 0},
-        {"duration": "Jan 24", "value": 0},
-        {"duration": "Feb 24", "value": 0},
-        {"duration": "Mar 24", "value": 0},
-        {"duration": "Apr 24", "value": 0},
-        {"duration": "May 24", "value": 0},
-        {"duration": "Jun 24", "value": 0}
-      ],
       "tag": "Expenses's transactional"
     },
     {
@@ -650,51 +1919,249 @@
     {
       "tag": "Average Invoice Value",
       "sum_values": [
-        {"duration": "Jul 23", "value": 197},
-        {"duration": "Aug 23", "value": 0},
-        {"duration": "Sep 23", "value": 777},
-        {"duration": "Oct 23", "value": 437.5},
-        {"duration": "Nov 23", "value": 333},
-        {"duration": "Dec 23", "value": 0},
-        {"duration": "Jan 24", "value": 100},
-        {"duration": "Feb 24", "value": 428},
-        {"duration": "Mar 24", "value": 3000},
-        {"duration": "Apr 24", "value": 250},
-        {"duration": "May 24", "value": 5625},
-        {"duration": "Jun 24", "value": 0},
-        {"duration": "", "value": 0},
-        {"duration": "Jul 24", "value": 1115.8181818181818}
+        {
+          "duration": "Jul 23",
+          "value": 197
+        },
+        {
+          "duration": "Aug 23",
+          "value": 0
+        },
+        {
+          "duration": "Sep 23",
+          "value": 777
+        },
+        {
+          "duration": "Oct 23",
+          "value": 437.5
+        },
+        {
+          "duration": "Nov 23",
+          "value": 333
+        },
+        {
+          "duration": "Dec 23",
+          "value": 0
+        },
+        {
+          "duration": "Jan 24",
+          "value": 100
+        },
+        {
+          "duration": "Feb 24",
+          "value": 428
+        },
+        {
+          "duration": "Mar 24",
+          "value": 3000
+        },
+        {
+          "duration": "Apr 24",
+          "value": 250
+        },
+        {
+          "duration": "May 24",
+          "value": 5625
+        },
+        {
+          "duration": "Jun 24",
+          "value": 0
+        },
+        {
+          "duration": "",
+          "value": 0
+        },
+        {
+          "duration": "Jul 24",
+          "value": 1115.8181818181818
+        }
       ]
     },
     {
       "tag": "Customer Split",
       "sum_values": [
-        {"type": "Customer", "month": "Jul 23", "old": 1, "new": 0, "total": 1},
-        {"type": "Customer", "month": "Aug 23", "old": 0, "new": 0, "total": 0},
-        {"type": "Customer", "month": "Sep 23", "old": 1, "new": 0, "total": 1},
-        {"type": "Customer", "month": "Oct 23", "old": 2, "new": 0, "total": 2},
-        {"type": "Customer", "month": "Nov 23", "old": 1, "new": 0, "total": 1},
-        {"type": "Customer", "month": "Dec 23", "old": 0, "new": 0, "total": 0},
-        {"type": "Customer", "month": "Jan 24", "old": 1, "new": 0, "total": 1},
-        {"type": "Customer", "month": "Feb 24", "old": 1, "new": 1, "total": 2},
-        {"type": "Customer", "month": "Mar 24", "old": 1, "new": 0, "total": 1},
-        {"type": "Customer", "month": "Apr 24", "old": 1, "new": 0, "total": 1},
-        {"type": "Customer", "month": "May 24", "old": 1, "new": 0, "total": 1},
-        {"type": "Customer", "month": "Jun 24", "old": 0, "new": 0, "total": 0},
-        {"type": "Customer", "month": "Jul 24", "old": 4, "new": 1, "total": 5},
-        {"type": "Sales", "month": "Jul 23", "old": 197, "new": 0, "total": 197},
-        {"type": "Sales", "month": "Aug 23", "old": 0, "new": 0, "total": 0},
-        {"type": "Sales", "month": "Sep 23", "old": 1554, "new": 0, "total": 1554},
-        {"type": "Sales", "month": "Oct 23", "old": 875, "new": 0, "total": 875},
-        {"type": "Sales", "month": "Nov 23", "old": 333, "new": 0, "total": 333},
-        {"type": "Sales", "month": "Dec 23", "old": 0, "new": 0, "total": 0},
-        {"type": "Sales", "month": "Jan 24", "old": 100, "new": 0, "total": 100},
-        {"type": "Sales", "month": "Feb 24", "old": 1000, "new": 284, "total": 1284},
-        {"type": "Sales", "month": "Mar 24", "old": 3000, "new": 0, "total": 3000},
-        {"type": "Sales", "month": "Apr 24", "old": 250, "new": 0, "total": 250},
-        {"type": "Sales", "month": "May 24", "old": 5625, "new": 0, "total": 5625},
-        {"type": "Sales", "month": "Jun 24", "old": 0, "new": 0, "total": 0},
-        {"type": "Sales", "month": "Jul 24", "old": 12069, "new": 205, "total": 12274}
+        {
+          "type": "Customer",
+          "month": "Jul 23",
+          "old": 1,
+          "new": 0,
+          "total": 1
+        },
+        {
+          "type": "Customer",
+          "month": "Aug 23",
+          "old": 0,
+          "new": 0,
+          "total": 0
+        },
+        {
+          "type": "Customer",
+          "month": "Sep 23",
+          "old": 1,
+          "new": 0,
+          "total": 1
+        },
+        {
+          "type": "Customer",
+          "month": "Oct 23",
+          "old": 2,
+          "new": 0,
+          "total": 2
+        },
+        {
+          "type": "Customer",
+          "month": "Nov 23",
+          "old": 1,
+          "new": 0,
+          "total": 1
+        },
+        {
+          "type": "Customer",
+          "month": "Dec 23",
+          "old": 0,
+          "new": 0,
+          "total": 0
+        },
+        {
+          "type": "Customer",
+          "month": "Jan 24",
+          "old": 1,
+          "new": 0,
+          "total": 1
+        },
+        {
+          "type": "Customer",
+          "month": "Feb 24",
+          "old": 1,
+          "new": 1,
+          "total": 2
+        },
+        {
+          "type": "Customer",
+          "month": "Mar 24",
+          "old": 1,
+          "new": 0,
+          "total": 1
+        },
+        {
+          "type": "Customer",
+          "month": "Apr 24",
+          "old": 1,
+          "new": 0,
+          "total": 1
+        },
+        {
+          "type": "Customer",
+          "month": "May 24",
+          "old": 1,
+          "new": 0,
+          "total": 1
+        },
+        {
+          "type": "Customer",
+          "month": "Jun 24",
+          "old": 0,
+          "new": 0,
+          "total": 0
+        },
+        {
+          "type": "Customer",
+          "month": "Jul 24",
+          "old": 4,
+          "new": 1,
+          "total": 5
+        },
+        {
+          "type": "Sales",
+          "month": "Jul 23",
+          "old": 197,
+          "new": 0,
+          "total": 197
+        },
+        {
+          "type": "Sales",
+          "month": "Aug 23",
+          "old": 0,
+          "new": 0,
+          "total": 0
+        },
+        {
+          "type": "Sales",
+          "month": "Sep 23",
+          "old": 1554,
+          "new": 0,
+          "total": 1554
+        },
+        {
+          "type": "Sales",
+          "month": "Oct 23",
+          "old": 875,
+          "new": 0,
+          "total": 875
+        },
+        {
+          "type": "Sales",
+          "month": "Nov 23",
+          "old": 333,
+          "new": 0,
+          "total": 333
+        },
+        {
+          "type": "Sales",
+          "month": "Dec 23",
+          "old": 0,
+          "new": 0,
+          "total": 0
+        },
+        {
+          "type": "Sales",
+          "month": "Jan 24",
+          "old": 100,
+          "new": 0,
+          "total": 100
+        },
+        {
+          "type": "Sales",
+          "month": "Feb 24",
+          "old": 1000,
+          "new": 284,
+          "total": 1284
+        },
+        {
+          "type": "Sales",
+          "month": "Mar 24",
+          "old": 3000,
+          "new": 0,
+          "total": 3000
+        },
+        {
+          "type": "Sales",
+          "month": "Apr 24",
+          "old": 250,
+          "new": 0,
+          "total": 250
+        },
+        {
+          "type": "Sales",
+          "month": "May 24",
+          "old": 5625,
+          "new": 0,
+          "total": 5625
+        },
+        {
+          "type": "Sales",
+          "month": "Jun 24",
+          "old": 0,
+          "new": 0,
+          "total": 0
+        },
+        {
+          "type": "Sales",
+          "month": "Jul 24",
+          "old": 12069,
+          "new": 205,
+          "total": 12274
+        }
       ]
     }
   ],
@@ -702,139 +2169,1051 @@
     {
       "measure": "Gross Profit",
       "sum_values": [
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 99},
-        {"date": "Feb 2024", "amount": 1283},
-        {"date": "Mar 2024", "amount": 3000},
-        {"date": "Apr 2024", "amount": 250},
-        {"date": "May 2024", "amount": 5625},
-        {"date": "Jun 2024", "amount": -399},
-        {"date": "Jul 2024", "amount": 12185},
-        {"date": "Aug 2024", "amount": 9374},
-        {"date": "Sep 2024", "amount": 5097},
-        {"date": "Oct 2024", "amount": 3740},
-        {"date": "Nov 2024", "amount": 0},
-        {"date": "Dec 2024", "amount": 0},
-        {"date": "Jan 2025", "amount": 0},
-        {"date": "Feb 2025", "amount": 15.6},
-        {"date": "Mar 2025", "amount": 0},
-        {"date": "Apr 2025", "amount": 0},
-        {"date": "May 2025", "amount": 0},
-        {"date": "Jun 2025", "amount": 0},
-        {"date": "Jul 2025", "amount": 0},
-        {"date": "Aug 2025", "amount": 0},
-        {"date": "Sep 2025", "amount": 0},
-        {"date": "Oct 2025", "amount": 0},
-        {"date": "Nov 2025", "amount": 0}
+        {
+          "date": "31-12-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2020",
+          "amount": 101828.0
+        },
+        {
+          "date": "31-12-2019",
+          "amount": 14831.0
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 3740.0
+        },
+        {
+          "date": "31-10-2023",
+          "amount": 875.0
+        },
+        {
+          "date": "31-10-2022",
+          "amount": 100.0
+        },
+        {
+          "date": "31-10-2021",
+          "amount": 5.0
+        },
+        {
+          "date": "31-10-2020",
+          "amount": 28066.0
+        },
+        {
+          "date": "31-10-2019",
+          "amount": 11273.0
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 9374.0
+        },
+        {
+          "date": "31-08-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2022",
+          "amount": 449.0
+        },
+        {
+          "date": "31-08-2021",
+          "amount": 200.0
+        },
+        {
+          "date": "31-08-2020",
+          "amount": 28596.0
+        },
+        {
+          "date": "31-08-2019",
+          "amount": 12423.0
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 12185.0
+        },
+        {
+          "date": "31-07-2023",
+          "amount": 197.0
+        },
+        {
+          "date": "31-07-2022",
+          "amount": 680.0
+        },
+        {
+          "date": "31-07-2021",
+          "amount": 50.0
+        },
+        {
+          "date": "31-07-2020",
+          "amount": 23573.0
+        },
+        {
+          "date": "31-07-2019",
+          "amount": 9603.0
+        },
+        {
+          "date": "31-05-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 5625.0
+        },
+        {
+          "date": "31-05-2023",
+          "amount": -43.0
+        },
+        {
+          "date": "31-05-2022",
+          "amount": 641.0
+        },
+        {
+          "date": "31-05-2021",
+          "amount": 30.0
+        },
+        {
+          "date": "31-05-2020",
+          "amount": 20557.0
+        },
+        {
+          "date": "31-05-2019",
+          "amount": 8321.0
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 3000.0
+        },
+        {
+          "date": "31-03-2023",
+          "amount": 786.0
+        },
+        {
+          "date": "31-03-2022",
+          "amount": 368.0
+        },
+        {
+          "date": "31-03-2021",
+          "amount": 90111.0
+        },
+        {
+          "date": "31-03-2020",
+          "amount": 16295.0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 99.0
+        },
+        {
+          "date": "31-01-2023",
+          "amount": 459.0
+        },
+        {
+          "date": "31-01-2022",
+          "amount": 639.0
+        },
+        {
+          "date": "31-01-2021",
+          "amount": 40371.0
+        },
+        {
+          "date": "31-01-2020",
+          "amount": 13319.0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2023",
+          "amount": 333.0
+        },
+        {
+          "date": "30-11-2022",
+          "amount": -36.0
+        },
+        {
+          "date": "30-11-2021",
+          "amount": 220.0
+        },
+        {
+          "date": "30-11-2020",
+          "amount": 29585.0
+        },
+        {
+          "date": "30-11-2019",
+          "amount": 13543.0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 5097.0
+        },
+        {
+          "date": "30-09-2023",
+          "amount": 1554.0
+        },
+        {
+          "date": "30-09-2022",
+          "amount": 316.0
+        },
+        {
+          "date": "30-09-2021",
+          "amount": 70.0
+        },
+        {
+          "date": "30-09-2020",
+          "amount": 26767.0
+        },
+        {
+          "date": "30-09-2019",
+          "amount": 10281.0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": -399.0
+        },
+        {
+          "date": "30-06-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2021",
+          "amount": 100.0
+        },
+        {
+          "date": "30-06-2020",
+          "amount": 22287.0
+        },
+        {
+          "date": "30-06-2019",
+          "amount": 8025.0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 250.0
+        },
+        {
+          "date": "30-04-2023",
+          "amount": -266.0
+        },
+        {
+          "date": "30-04-2022",
+          "amount": -103.0
+        },
+        {
+          "date": "30-04-2021",
+          "amount": 190.0
+        },
+        {
+          "date": "30-04-2020",
+          "amount": 21959.0
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 1283.0
+        },
+        {
+          "date": "29-02-2020",
+          "amount": 14712.0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 15.6
+        },
+        {
+          "date": "28-02-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2022",
+          "amount": 16.0
+        },
+        {
+          "date": "28-02-2021",
+          "amount": 36251.0
+        }
       ]
     },
     {
       "measure": "EBITDA",
       "sum_values": [
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 99},
-        {"date": "Feb 2024", "amount": 1283},
-        {"date": "Mar 2024", "amount": 3000},
-        {"date": "Apr 2024", "amount": 250},
-        {"date": "May 2024", "amount": 5625},
-        {"date": "Jun 2024", "amount": -399},
-        {"date": "Jul 2024", "amount": 12185},
-        {"date": "Aug 2024", "amount": 10874},
-        {"date": "Sep 2024", "amount": 5097},
-        {"date": "Oct 2024", "amount": 3740},
-        {"date": "Nov 2024", "amount": 0},
-        {"date": "Dec 2024", "amount": 0},
-        {"date": "Jan 2025", "amount": 0},
-        {"date": "Feb 2025", "amount": 15.6},
-        {"date": "Mar 2025", "amount": 0},
-        {"date": "Apr 2025", "amount": 0},
-        {"date": "May 2025", "amount": 0},
-        {"date": "Jun 2025", "amount": 0},
-        {"date": "Jul 2025", "amount": 0},
-        {"date": "Aug 2025", "amount": 0},
-        {"date": "Sep 2025", "amount": 0},
-        {"date": "Oct 2025", "amount": 0},
-        {"date": "Nov 2025", "amount": 0}
+        {
+          "date": "31-12-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2020",
+          "amount": 72091.0
+        },
+        {
+          "date": "31-12-2019",
+          "amount": 931.0
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 3740.0
+        },
+        {
+          "date": "31-10-2023",
+          "amount": 875.0
+        },
+        {
+          "date": "31-10-2022",
+          "amount": 100.0
+        },
+        {
+          "date": "31-10-2021",
+          "amount": 5.0
+        },
+        {
+          "date": "31-10-2020",
+          "amount": 4007.0
+        },
+        {
+          "date": "31-10-2019",
+          "amount": 1022.0
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 10874.0
+        },
+        {
+          "date": "31-08-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2022",
+          "amount": 449.0
+        },
+        {
+          "date": "31-08-2021",
+          "amount": 200.0
+        },
+        {
+          "date": "31-08-2020",
+          "amount": 4412.0
+        },
+        {
+          "date": "31-08-2019",
+          "amount": 1614.0
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 12185.0
+        },
+        {
+          "date": "31-07-2023",
+          "amount": 197.0
+        },
+        {
+          "date": "31-07-2022",
+          "amount": 680.0
+        },
+        {
+          "date": "31-07-2021",
+          "amount": 50.0
+        },
+        {
+          "date": "31-07-2020",
+          "amount": 3241.0
+        },
+        {
+          "date": "31-07-2019",
+          "amount": 1195.0
+        },
+        {
+          "date": "31-05-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 5625.0
+        },
+        {
+          "date": "31-05-2023",
+          "amount": -43.0
+        },
+        {
+          "date": "31-05-2022",
+          "amount": 641.0
+        },
+        {
+          "date": "31-05-2021",
+          "amount": 30.0
+        },
+        {
+          "date": "31-05-2020",
+          "amount": 2209.0
+        },
+        {
+          "date": "31-05-2019",
+          "amount": 1057.0
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 3000.0
+        },
+        {
+          "date": "31-03-2023",
+          "amount": 786.0
+        },
+        {
+          "date": "31-03-2022",
+          "amount": 368.0
+        },
+        {
+          "date": "31-03-2021",
+          "amount": 74103.0
+        },
+        {
+          "date": "31-03-2020",
+          "amount": 584.0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 99.0
+        },
+        {
+          "date": "31-01-2023",
+          "amount": 459.0
+        },
+        {
+          "date": "31-01-2022",
+          "amount": 639.0
+        },
+        {
+          "date": "31-01-2021",
+          "amount": 12113.0
+        },
+        {
+          "date": "31-01-2020",
+          "amount": 908.0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2023",
+          "amount": 333.0
+        },
+        {
+          "date": "30-11-2022",
+          "amount": -36.0
+        },
+        {
+          "date": "30-11-2021",
+          "amount": 171.67000000000002
+        },
+        {
+          "date": "30-11-2020",
+          "amount": 3436.0
+        },
+        {
+          "date": "30-11-2019",
+          "amount": 2459.0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 5097.0
+        },
+        {
+          "date": "30-09-2023",
+          "amount": 1544.0
+        },
+        {
+          "date": "30-09-2022",
+          "amount": 316.0
+        },
+        {
+          "date": "30-09-2021",
+          "amount": 20.0
+        },
+        {
+          "date": "30-09-2020",
+          "amount": 4914.0
+        },
+        {
+          "date": "30-09-2019",
+          "amount": 649.0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": -399.0
+        },
+        {
+          "date": "30-06-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2021",
+          "amount": 100.0
+        },
+        {
+          "date": "30-06-2020",
+          "amount": 3010.0
+        },
+        {
+          "date": "30-06-2019",
+          "amount": 206.0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 250.0
+        },
+        {
+          "date": "30-04-2023",
+          "amount": -266.0
+        },
+        {
+          "date": "30-04-2022",
+          "amount": -103.0
+        },
+        {
+          "date": "30-04-2021",
+          "amount": 190.0
+        },
+        {
+          "date": "30-04-2020",
+          "amount": 2194.0
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 1283.0
+        },
+        {
+          "date": "29-02-2020",
+          "amount": 548.0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 15.6
+        },
+        {
+          "date": "28-02-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2022",
+          "amount": 16.0
+        },
+        {
+          "date": "28-02-2021",
+          "amount": 5645.0
+        }
       ]
     },
     {
       "measure": "Net Income",
       "sum_values": [
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 99},
-        {"date": "Feb 2024", "amount": 1283},
-        {"date": "Mar 2024", "amount": 3000},
-        {"date": "Apr 2024", "amount": 250},
-        {"date": "May 2024", "amount": 5625},
-        {"date": "Jun 2024", "amount": -399},
-        {"date": "Jul 2024", "amount": 12185},
-        {"date": "Aug 2024", "amount": 10874},
-        {"date": "Sep 2024", "amount": 5097},
-        {"date": "Oct 2024", "amount": 3740},
-        {"date": "Nov 2024", "amount": 0},
-        {"date": "Dec 2024", "amount": 0},
-        {"date": "Jan 2025", "amount": 0},
-        {"date": "Feb 2025", "amount": 15.6},
-        {"date": "Mar 2025", "amount": 0},
-        {"date": "Apr 2025", "amount": 0},
-        {"date": "May 2025", "amount": 0},
-        {"date": "Jun 2025", "amount": 0},
-        {"date": "Jul 2025", "amount": 0},
-        {"date": "Aug 2025", "amount": 0},
-        {"date": "Sep 2025", "amount": 0},
-        {"date": "Oct 2025", "amount": 0},
-        {"date": "Nov 2025", "amount": 0}
+        {
+          "date": "31-12-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2021",
+          "amount": 0.0
+        },
+        {
+          "date": "31-12-2020",
+          "amount": 72091.0
+        },
+        {
+          "date": "31-12-2019",
+          "amount": 931.0
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 3740.0
+        },
+        {
+          "date": "31-10-2023",
+          "amount": 875.0
+        },
+        {
+          "date": "31-10-2022",
+          "amount": 100.0
+        },
+        {
+          "date": "31-10-2021",
+          "amount": 5.0
+        },
+        {
+          "date": "31-10-2020",
+          "amount": 4007.0
+        },
+        {
+          "date": "31-10-2019",
+          "amount": 1022.0
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 10874.0
+        },
+        {
+          "date": "31-08-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "31-08-2022",
+          "amount": 449.0
+        },
+        {
+          "date": "31-08-2021",
+          "amount": 200.0
+        },
+        {
+          "date": "31-08-2020",
+          "amount": 4412.0
+        },
+        {
+          "date": "31-08-2019",
+          "amount": 1614.0
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 12185.0
+        },
+        {
+          "date": "31-07-2023",
+          "amount": 197.0
+        },
+        {
+          "date": "31-07-2022",
+          "amount": 680.0
+        },
+        {
+          "date": "31-07-2021",
+          "amount": 50.0
+        },
+        {
+          "date": "31-07-2020",
+          "amount": 3241.0
+        },
+        {
+          "date": "31-07-2019",
+          "amount": 1195.0
+        },
+        {
+          "date": "31-05-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 5625.0
+        },
+        {
+          "date": "31-05-2023",
+          "amount": -43.0
+        },
+        {
+          "date": "31-05-2022",
+          "amount": 641.0
+        },
+        {
+          "date": "31-05-2021",
+          "amount": 30.0
+        },
+        {
+          "date": "31-05-2020",
+          "amount": 2209.0
+        },
+        {
+          "date": "31-05-2019",
+          "amount": 1057.0
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 3000.0
+        },
+        {
+          "date": "31-03-2023",
+          "amount": 786.0
+        },
+        {
+          "date": "31-03-2022",
+          "amount": 368.0
+        },
+        {
+          "date": "31-03-2021",
+          "amount": 74103.0
+        },
+        {
+          "date": "31-03-2020",
+          "amount": 584.0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 99.0
+        },
+        {
+          "date": "31-01-2023",
+          "amount": 459.0
+        },
+        {
+          "date": "31-01-2022",
+          "amount": 639.0
+        },
+        {
+          "date": "31-01-2021",
+          "amount": 12113.0
+        },
+        {
+          "date": "31-01-2020",
+          "amount": 908.0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0.0
+        },
+        {
+          "date": "30-11-2023",
+          "amount": 333.0
+        },
+        {
+          "date": "30-11-2022",
+          "amount": -36.0
+        },
+        {
+          "date": "30-11-2021",
+          "amount": 171.67000000000002
+        },
+        {
+          "date": "30-11-2020",
+          "amount": 3436.0
+        },
+        {
+          "date": "30-11-2019",
+          "amount": 2459.0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 5097.0
+        },
+        {
+          "date": "30-09-2023",
+          "amount": 1544.0
+        },
+        {
+          "date": "30-09-2022",
+          "amount": 316.0
+        },
+        {
+          "date": "30-09-2021",
+          "amount": 20.0
+        },
+        {
+          "date": "30-09-2020",
+          "amount": 4914.0
+        },
+        {
+          "date": "30-09-2019",
+          "amount": 649.0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": -399.0
+        },
+        {
+          "date": "30-06-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2022",
+          "amount": 0.0
+        },
+        {
+          "date": "30-06-2021",
+          "amount": 100.0
+        },
+        {
+          "date": "30-06-2020",
+          "amount": 3010.0
+        },
+        {
+          "date": "30-06-2019",
+          "amount": 206.0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0.0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 250.0
+        },
+        {
+          "date": "30-04-2023",
+          "amount": -266.0
+        },
+        {
+          "date": "30-04-2022",
+          "amount": -103.0
+        },
+        {
+          "date": "30-04-2021",
+          "amount": 190.0
+        },
+        {
+          "date": "30-04-2020",
+          "amount": 2194.0
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 1283.0
+        },
+        {
+          "date": "29-02-2020",
+          "amount": 548.0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 15.6
+        },
+        {
+          "date": "28-02-2023",
+          "amount": 0.0
+        },
+        {
+          "date": "28-02-2022",
+          "amount": 16.0
+        },
+        {
+          "date": "28-02-2021",
+          "amount": 5645.0
+        }
       ]
     },
     {
       "measure": "Customer Collection Days",
       "sum_values": [
-        {"date": "Aug 2023", "amount": 0},
-        {"date": "Sep 2023", "amount": 4224.131274131274},
-        {"date": "Oct 2023", "amount": 7531.5599999999995},
-        {"date": "Nov 2023", "amount": 19810.63063063063},
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 66021},
-        {"date": "Feb 2024", "amount": 5154.7546728971965},
-        {"date": "Mar 2024", "amount": 2226.4900000000002},
-        {"date": "Apr 2024", "amount": 26912.88},
-        {"date": "May 2024", "amount": 1211.7946666666667},
-        {"date": "Jun 2024", "amount": -17233.05},
-        {"date": "Jul 2024", "amount": 579.9138355489907}
+        {
+          "date": "Aug 2023",
+          "amount": 0
+        },
+        {
+          "date": "Sep 2023",
+          "amount": 4224.131274131274
+        },
+        {
+          "date": "Oct 2023",
+          "amount": 7531.5599999999995
+        },
+        {
+          "date": "Nov 2023",
+          "amount": 19810.63063063063
+        },
+        {
+          "date": "Dec 2023",
+          "amount": 0
+        },
+        {
+          "date": "Jan 2024",
+          "amount": 66021
+        },
+        {
+          "date": "Feb 2024",
+          "amount": 5154.7546728971965
+        },
+        {
+          "date": "Mar 2024",
+          "amount": 2226.4900000000002
+        },
+        {
+          "date": "Apr 2024",
+          "amount": 26912.88
+        },
+        {
+          "date": "May 2024",
+          "amount": 1211.7946666666667
+        },
+        {
+          "date": "Jun 2024",
+          "amount": -17233.05
+        },
+        {
+          "date": "Jul 2024",
+          "amount": 579.9138355489907
+        }
       ]
     },
     {
       "measure": "Supplier Payment Days",
       "sum_values": [
-        {"date": "Aug 2023", "amount": 0},
-        {"date": "Sep 2023", "amount": 218481.59999999998},
-        {"date": "Oct 2023", "amount": 0},
-        {"date": "Nov 2023", "amount": 0},
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 0},
-        {"date": "Feb 2024", "amount": 0},
-        {"date": "Mar 2024", "amount": 0},
-        {"date": "Apr 2024", "amount": 0},
-        {"date": "May 2024", "amount": 0},
-        {"date": "Jun 2024", "amount": 0},
-        {"date": "Jul 2024", "amount": 0}
+        {
+          "date": "Aug 2023",
+          "amount": 0
+        },
+        {
+          "date": "Sep 2023",
+          "amount": 218481.59999999998
+        },
+        {
+          "date": "Oct 2023",
+          "amount": 0
+        },
+        {
+          "date": "Nov 2023",
+          "amount": 0
+        },
+        {
+          "date": "Dec 2023",
+          "amount": 0
+        },
+        {
+          "date": "Jan 2024",
+          "amount": 0
+        },
+        {
+          "date": "Feb 2024",
+          "amount": 0
+        },
+        {
+          "date": "Mar 2024",
+          "amount": 0
+        },
+        {
+          "date": "Apr 2024",
+          "amount": 0
+        },
+        {
+          "date": "May 2024",
+          "amount": 0
+        },
+        {
+          "date": "Jun 2024",
+          "amount": 0
+        },
+        {
+          "date": "Jul 2024",
+          "amount": 0
+        }
       ]
     },
     {
       "measure": "Inventory Days",
       "sum_values": [
-        {"date": "Aug 2023", "amount": 0},
-        {"date": "Sep 2023", "amount": 0},
-        {"date": "Oct 2023", "amount": 0},
-        {"date": "Nov 2023", "amount": 0},
-        {"date": "Dec 2023", "amount": 0},
-        {"date": "Jan 2024", "amount": 612369.9},
-        {"date": "Feb 2024", "amount": 612339.9},
-        {"date": "Mar 2024", "amount": 0},
-        {"date": "Apr 2024", "amount": 0},
-        {"date": "May 2024", "amount": 0},
-        {"date": "Jun 2024", "amount": -612339.9},
-        {"date": "Jul 2024", "amount": 612339.9}
+        {
+          "date": "Aug 2023",
+          "amount": 0
+        },
+        {
+          "date": "Sep 2023",
+          "amount": 0
+        },
+        {
+          "date": "Oct 2023",
+          "amount": 0
+        },
+        {
+          "date": "Nov 2023",
+          "amount": 0
+        },
+        {
+          "date": "Dec 2023",
+          "amount": 0
+        },
+        {
+          "date": "Jan 2024",
+          "amount": 612369.9
+        },
+        {
+          "date": "Feb 2024",
+          "amount": 612339.9
+        },
+        {
+          "date": "Mar 2024",
+          "amount": 0
+        },
+        {
+          "date": "Apr 2024",
+          "amount": 0
+        },
+        {
+          "date": "May 2024",
+          "amount": 0
+        },
+        {
+          "date": "Jun 2024",
+          "amount": -612339.9
+        },
+        {
+          "date": "Jul 2024",
+          "amount": 612339.9
+        }
       ]
     }
   ],
@@ -842,364 +3221,709 @@
     {
       "label": "Net Cash provided by / (used) in operating activities",
       "sum_values": [
-        {"date": "31-12-2023", "amount": 0, "is_actual": true},
-        {"date": "31-01-2024", "amount": 44, "is_actual": true},
-        {"date": "29-02-2024", "amount": 233, "is_actual": true},
-        {"date": "31-03-2024", "amount": 0, "is_actual": true},
-        {"date": "30-04-2024", "amount": 0, "is_actual": true},
-        {"date": "31-05-2024", "amount": 0, "is_actual": true},
-        {"date": "30-06-2024", "amount": 100, "is_actual": true},
-        {"date": "31-07-2024", "amount": 132, "is_actual": true},
-        {"date": "31-08-2024", "amount": 0, "is_actual": true},
-        {"date": "30-09-2024", "amount": 200, "is_actual": true},
-        {"date": "31-10-2024", "amount": 0, "is_actual": true},
-        {"date": "30-11-2024", "amount": 0, "is_actual": true},
-        {"date": "31-12-2024", "amount": 0, "is_actual": true},
-        {"date": "31-01-2025", "amount": 0, "is_actual": true},
-        {"date": "28-02-2025", "amount": -5.821121362714621e-12, "is_actual": true},
-        {"date": "31-03-2025", "amount": 0, "is_actual": true},
-        {"date": "30-04-2025", "amount": 0, "is_actual": true},
-        {"date": "31-05-2025", "amount": 0, "is_actual": true},
-        {"date": "30-06-2025", "amount": 0, "is_actual": true},
-        {"date": "31-07-2025", "amount": 0, "is_actual": true},
-        {"date": "31-08-2025", "amount": 0, "is_actual": true},
-        {"date": "30-09-2025", "amount": 0, "is_actual": true},
-        {"date": "31-10-2025", "amount": 0, "is_actual": true},
-        {"date": "30-11-2025", "amount": 0, "is_actual": true}
+        {
+          "date": "31-12-2023",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 44,
+          "is_actual": true
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 233,
+          "is_actual": true
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-06-2024",
+          "amount": 100,
+          "is_actual": true
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 132,
+          "is_actual": true
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 200,
+          "is_actual": true
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-12-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "28-02-2025",
+          "amount": -5.821121362714621e-12,
+          "is_actual": true
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-05-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-06-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-07-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-08-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-09-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-10-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-11-2025",
+          "amount": 0,
+          "is_actual": true
+        }
       ]
     },
     {
       "label": "Net Cash provided by / (used) in investing activities",
       "sum_values": [
-        {"date": "31-12-2023", "amount": 0, "is_actual": true},
-        {"date": "31-01-2024", "amount": 0, "is_actual": true},
-        {"date": "29-02-2024", "amount": 0, "is_actual": true},
-        {"date": "31-03-2024", "amount": 0, "is_actual": true},
-        {"date": "30-04-2024", "amount": 0, "is_actual": true},
-        {"date": "31-05-2024", "amount": 0, "is_actual": true},
-        {"date": "30-06-2024", "amount": 0, "is_actual": true},
-        {"date": "31-07-2024", "amount": 0, "is_actual": true},
-        {"date": "31-08-2024", "amount": 0, "is_actual": true},
-        {"date": "30-09-2024", "amount": 0, "is_actual": true},
-        {"date": "31-10-2024", "amount": 0, "is_actual": true},
-        {"date": "30-11-2024", "amount": 0, "is_actual": true},
-        {"date": "31-12-2024", "amount": 0, "is_actual": true},
-        {"date": "31-01-2025", "amount": 0, "is_actual": true},
-        {"date": "28-02-2025", "amount": 0, "is_actual": true},
-        {"date": "31-03-2025", "amount": 0, "is_actual": true},
-        {"date": "30-04-2025", "amount": 0, "is_actual": true},
-        {"date": "31-05-2025", "amount": 0, "is_actual": true},
-        {"date": "30-06-2025", "amount": 0, "is_actual": true},
-        {"date": "31-07-2025", "amount": 0, "is_actual": true},
-        {"date": "31-08-2025", "amount": 0, "is_actual": true},
-        {"date": "30-09-2025", "amount": 0, "is_actual": true},
-        {"date": "31-10-2025", "amount": 0, "is_actual": true},
-        {"date": "30-11-2025", "amount": 0, "is_actual": true}
+        {
+          "date": "31-12-2023",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-06-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-12-2024",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-05-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-06-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-07-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-08-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-09-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "31-10-2025",
+          "amount": 0,
+          "is_actual": true
+        },
+        {
+          "date": "30-11-2025",
+          "amount": 0,
+          "is_actual": true
+        }
       ]
     },
     {
       "label": "Net Cash provided by / (used) in financing activities",
       "sum_values": [
-        {"date": "31-12-2023", "amount": 0},
-        {"date": "31-01-2024", "amount": 0},
-        {"date": "29-02-2024", "amount": 0},
-        {"date": "31-03-2024", "amount": 0},
-        {"date": "30-04-2024", "amount": 0},
-        {"date": "31-05-2024", "amount": 0},
-        {"date": "30-06-2024", "amount": 0},
-        {"date": "31-07-2024", "amount": 0},
-        {"date": "31-08-2024", "amount": 0},
-        {"date": "30-09-2024", "amount": 0},
-        {"date": "31-10-2024", "amount": 0},
-        {"date": "30-11-2024", "amount": 0},
-        {"date": "31-12-2024", "amount": 0},
-        {"date": "31-01-2025", "amount": 0},
-        {"date": "28-02-2025", "amount": 2.9103830456733704e-11},
-        {"date": "31-03-2025", "amount": 0},
-        {"date": "30-04-2025", "amount": 0},
-        {"date": "31-05-2025", "amount": 0},
-        {"date": "30-06-2025", "amount": 0},
-        {"date": "31-07-2025", "amount": 0},
-        {"date": "31-08-2025", "amount": 0},
-        {"date": "30-09-2025", "amount": 0},
-        {"date": "31-10-2025", "amount": 0},
-        {"date": "30-11-2025", "amount": 0}
+        {
+          "date": "31-12-2023",
+          "amount": 0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 0
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-12-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 2.9103830456733704e-11
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-05-2025",
+          "amount": 0
+        },
+        {
+          "date": "30-06-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-07-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-08-2025",
+          "amount": 0
+        },
+        {
+          "date": "30-09-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-10-2025",
+          "amount": 0
+        },
+        {
+          "date": "30-11-2025",
+          "amount": 0
+        }
       ]
     },
     {
       "label": "Net increase / (decrease) in cash at the end of period",
       "sum_values": [
-        {"date": "31-12-2023", "amount": 0},
-        {"date": "31-01-2024", "amount": 44},
-        {"date": "29-02-2024", "amount": 233},
-        {"date": "31-03-2024", "amount": 0},
-        {"date": "30-04-2024", "amount": 0},
-        {"date": "31-05-2024", "amount": 0},
-        {"date": "30-06-2024", "amount": 100},
-        {"date": "31-07-2024", "amount": 132},
-        {"date": "31-08-2024", "amount": 0},
-        {"date": "30-09-2024", "amount": 200},
-        {"date": "31-10-2024", "amount": 0},
-        {"date": "30-11-2024", "amount": 0},
-        {"date": "31-12-2024", "amount": 0},
-        {"date": "31-01-2025", "amount": 0},
-        {"date": "28-02-2025", "amount": 0},
-        {"date": "31-03-2025", "amount": 0},
-        {"date": "30-04-2025", "amount": 0},
-        {"date": "31-05-2025", "amount": 0},
-        {"date": "30-06-2025", "amount": 0},
-        {"date": "31-07-2025", "amount": 0},
-        {"date": "31-08-2025", "amount": 0},
-        {"date": "30-09-2025", "amount": 0},
-        {"date": "31-10-2025", "amount": 0},
-        {"date": "30-11-2025", "amount": 0}
+        {
+          "date": "31-12-2023",
+          "amount": 0
+        },
+        {
+          "date": "31-01-2024",
+          "amount": 44
+        },
+        {
+          "date": "29-02-2024",
+          "amount": 233
+        },
+        {
+          "date": "31-03-2024",
+          "amount": 0
+        },
+        {
+          "date": "30-04-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-05-2024",
+          "amount": 0
+        },
+        {
+          "date": "30-06-2024",
+          "amount": 100
+        },
+        {
+          "date": "31-07-2024",
+          "amount": 132
+        },
+        {
+          "date": "31-08-2024",
+          "amount": 0
+        },
+        {
+          "date": "30-09-2024",
+          "amount": 200
+        },
+        {
+          "date": "31-10-2024",
+          "amount": 0
+        },
+        {
+          "date": "30-11-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-12-2024",
+          "amount": 0
+        },
+        {
+          "date": "31-01-2025",
+          "amount": 0
+        },
+        {
+          "date": "28-02-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-03-2025",
+          "amount": 0
+        },
+        {
+          "date": "30-04-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-05-2025",
+          "amount": 0
+        },
+        {
+          "date": "30-06-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-07-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-08-2025",
+          "amount": 0
+        },
+        {
+          "date": "30-09-2025",
+          "amount": 0
+        },
+        {
+          "date": "31-10-2025",
+          "amount": 0
+        },
+        {
+          "date": "30-11-2025",
+          "amount": 0
+        }
       ],
-    "tp_invoices": [
-    {
-      "duration": "Jul 24",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 6,
-          "date": "Jul 24",
-          "inv_total": 1322,
-          "total_sum": 1069,
-          "cn_total": 253,
-          "is_new": false
-        },
-        {
-          "invoice_contact__name": "ABC",
-          "invoice_contact__contact_id": "d287f80d-b352-4c0f-b48f-84bafc6bb9cb",
-          "count_inv": 1,
-          "date": "Jul 24",
-          "inv_total": 10000,
-          "total_sum": 9999,
-          "cn_total": 1,
-          "is_new": false
-        },
-        {
-          "invoice_contact__name": "Bad Customers",
-          "invoice_contact__contact_id": "5cae4dc9-545e-457c-ad00-ef0c9d983992",
-          "count_inv": 2,
-          "date": "Jul 24",
-          "inv_total": 205,
-          "total_sum": 205,
-          "cn_total": null,
-          "is_new": true
-        },
-        {
-          "invoice_contact__name": "Customer E",
-          "invoice_contact__contact_id": "64d8a8e5-7ae2-4aef-8a97-736144b86283",
-          "count_inv": 1,
-          "date": "Jul 24",
-          "inv_total": 1000,
-          "total_sum": 1000,
-          "cn_total": null,
-          "is_new": false
-        },
-        {
-          "invoice_contact__name": "Customer A",
-          "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
-          "count_inv": 1,
-          "date": "Jul 24",
-          "inv_total": 1,
-          "total_sum": 1,
-          "cn_total": null,
-          "is_new": false
-        }
-      ]
-    }
-  ],
-
-  "cp_invoices": [
-    {
-      "duration": "Jul 23",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 1,
-          "date": "Jul 23",
-          "inv_total": 197,
-          "total_sum": 197,
-          "is_new": false
-        }
-      ]
-    },
-    { "duration": "Aug 23", "value": [] },
-    {
-      "duration": "Sep 23",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 2,
-          "date": "Sep 23",
-          "inv_total": 1554,
-          "total_sum": 1554,
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "duration": "Oct 23",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 1,
-          "date": "Oct 23",
-          "inv_total": 100,
-          "total_sum": 75,
-          "is_new": false
-        },
-        {
-          "invoice_contact__name": "Customer A",
-          "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
-          "count_inv": 1,
-          "date": "Oct 23",
-          "inv_total": 1000,
-          "total_sum": 800,
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "duration": "Nov 23",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 1,
-          "date": "Nov 23",
-          "inv_total": 333,
-          "total_sum": 333,
-          "is_new": false
-        }
-      ]
-    },
-    { "duration": "Dec 23", "value": [] },
-    {
-      "duration": "Jan 24",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 1,
-          "date": "Jan 24",
-          "inv_total": 100,
-          "total_sum": 100,
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "duration": "Feb 24",
-      "value": [
-        {
-          "invoice_contact__name": "Bad Custome",
-          "invoice_contact__contact_id": "a34c6c9c-26bc-4bae-a17f-87fe270f5dc5",
-          "count_inv": 2,
-          "date": "Feb 24",
-          "inv_total": 284,
-          "total_sum": 284,
-          "is_new": true
-        },
-        {
-          "invoice_contact__name": "Customer B",
-          "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
-          "count_inv": 1,
-          "date": "Feb 24",
-          "inv_total": 1000,
-          "total_sum": 1000,
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "duration": "Mar 24",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 1,
-          "date": "Mar 24",
-          "inv_total": 3000,
-          "total_sum": 3000,
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "duration": "Apr 24",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 1,
-          "date": "Apr 24",
-          "inv_total": 1000,
-          "total_sum": 250,
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "duration": "May 24",
-      "value": [
-        {
-          "invoice_contact__name": "Customer AR",
-          "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
-          "count_inv": 1,
-          "date": "May 24",
-          "inv_total": 5625,
-          "total_sum": 5625,
-          "is_new": false
-        }
-      ]
-    },
-    { "duration": "Jun 24", "value": [] }
-  ],
-
-"items_sold": {
-    "message": "Success",
-    "data": {
       "tp_invoices": [
         {
-          "item_id": "001",
-          "name": "Mobile Phone",
-          "item_description": "Mobile Phone",
-          "volume": 11,
-          "total_price": 1870,
-          "unit_amount": 170
-        },
-        {
-          "item_id": "005",
-          "name": "Sales Item",
-          "item_description": "Sales Item",
-          "volume": 5,
-          "total_price": 204,
-          "unit_amount": 40.8
-        },
-        {
-          "item_id": null,
-          "name": null,
-          "item_description": "After Sync",
-          "volume": 1,
-          "total_price": 10000,
-          "unit_amount": 10000
-        },
-        {
-          "item_id": null,
-          "name": null,
-          "item_description": "Mobile",
-          "volume": 2,
-          "total_price": 2,
-          "unit_amount": 1
+          "duration": "Jul 24",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 6,
+              "date": "Jul 24",
+              "inv_total": 1322,
+              "total_sum": 1069,
+              "cn_total": 253,
+              "is_new": false
+            },
+            {
+              "invoice_contact__name": "ABC",
+              "invoice_contact__contact_id": "d287f80d-b352-4c0f-b48f-84bafc6bb9cb",
+              "count_inv": 1,
+              "date": "Jul 24",
+              "inv_total": 10000,
+              "total_sum": 9999,
+              "cn_total": 1,
+              "is_new": false
+            },
+            {
+              "invoice_contact__name": "Bad Customers",
+              "invoice_contact__contact_id": "5cae4dc9-545e-457c-ad00-ef0c9d983992",
+              "count_inv": 2,
+              "date": "Jul 24",
+              "inv_total": 205,
+              "total_sum": 205,
+              "cn_total": null,
+              "is_new": true
+            },
+            {
+              "invoice_contact__name": "Customer E",
+              "invoice_contact__contact_id": "64d8a8e5-7ae2-4aef-8a97-736144b86283",
+              "count_inv": 1,
+              "date": "Jul 24",
+              "inv_total": 1000,
+              "total_sum": 1000,
+              "cn_total": null,
+              "is_new": false
+            },
+            {
+              "invoice_contact__name": "Customer A",
+              "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+              "count_inv": 1,
+              "date": "Jul 24",
+              "inv_total": 1,
+              "total_sum": 1,
+              "cn_total": null,
+              "is_new": false
+            }
+          ]
         }
       ],
-      "cp_invoices": []
+      "cp_invoices": [
+        {
+          "duration": "Jul 23",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 1,
+              "date": "Jul 23",
+              "inv_total": 197,
+              "total_sum": 197,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "Aug 23",
+          "value": []
+        },
+        {
+          "duration": "Sep 23",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 2,
+              "date": "Sep 23",
+              "inv_total": 1554,
+              "total_sum": 1554,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "Oct 23",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 1,
+              "date": "Oct 23",
+              "inv_total": 100,
+              "total_sum": 75,
+              "is_new": false
+            },
+            {
+              "invoice_contact__name": "Customer A",
+              "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+              "count_inv": 1,
+              "date": "Oct 23",
+              "inv_total": 1000,
+              "total_sum": 800,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "Nov 23",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 1,
+              "date": "Nov 23",
+              "inv_total": 333,
+              "total_sum": 333,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "Dec 23",
+          "value": []
+        },
+        {
+          "duration": "Jan 24",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 1,
+              "date": "Jan 24",
+              "inv_total": 100,
+              "total_sum": 100,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "Feb 24",
+          "value": [
+            {
+              "invoice_contact__name": "Bad Custome",
+              "invoice_contact__contact_id": "a34c6c9c-26bc-4bae-a17f-87fe270f5dc5",
+              "count_inv": 2,
+              "date": "Feb 24",
+              "inv_total": 284,
+              "total_sum": 284,
+              "is_new": true
+            },
+            {
+              "invoice_contact__name": "Customer B",
+              "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+              "count_inv": 1,
+              "date": "Feb 24",
+              "inv_total": 1000,
+              "total_sum": 1000,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "Mar 24",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 1,
+              "date": "Mar 24",
+              "inv_total": 3000,
+              "total_sum": 3000,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "Apr 24",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 1,
+              "date": "Apr 24",
+              "inv_total": 1000,
+              "total_sum": 250,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "May 24",
+          "value": [
+            {
+              "invoice_contact__name": "Customer AR",
+              "invoice_contact__contact_id": "a3270bc4-c87e-406c-80b8-ea5561ca3e40",
+              "count_inv": 1,
+              "date": "May 24",
+              "inv_total": 5625,
+              "total_sum": 5625,
+              "is_new": false
+            }
+          ]
+        },
+        {
+          "duration": "Jun 24",
+          "value": []
+        }
+      ],
+      "items_sold": {
+        "message": "Success",
+        "data": {
+          "tp_invoices": [
+            {
+              "item_id": "001",
+              "name": "Mobile Phone",
+              "item_description": "Mobile Phone",
+              "volume": 11,
+              "total_price": 1870,
+              "unit_amount": 170
+            },
+            {
+              "item_id": "005",
+              "name": "Sales Item",
+              "item_description": "Sales Item",
+              "volume": 5,
+              "total_price": 204,
+              "unit_amount": 40.8
+            },
+            {
+              "item_id": null,
+              "name": null,
+              "item_description": "After Sync",
+              "volume": 1,
+              "total_price": 10000,
+              "unit_amount": 10000
+            },
+            {
+              "item_id": null,
+              "name": null,
+              "item_description": "Mobile",
+              "volume": 2,
+              "total_price": 2,
+              "unit_amount": 1
+            }
+          ],
+          "cp_invoices": []
+        }
+      }
     }
-  }
-}]}
+  ]
+}
