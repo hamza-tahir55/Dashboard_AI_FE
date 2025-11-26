@@ -29,8 +29,8 @@ def normalize_ai_text(text: str) -> str:
 # Render AI text as HTML-escaped plain text to avoid Markdown side effects
 def render_ai_text(text: str):
     cleaned = normalize_ai_text(text)
-    safe = html.escape(cleaned)
-    st.markdown(f"<div style='white-space:pre-wrap; line-height:1.5'>{safe}</div>", unsafe_allow_html=True)
+    # Use plain text rendering to avoid any Markdown/HTML side effects
+    st.text(cleaned)
 
 def load_data():
     """Load the financial data from data.json"""
@@ -106,6 +106,12 @@ def main():
         st.metric("Additional Data G2", f"{len(add_data_g2)} records")
         
         st.divider()
+        # Environment info for debugging differences between local and Railway deployments
+        try:
+            import sys
+            st.caption(f"Env: Python {sys.version.split()[0]} | Streamlit {st.__version__}")
+        except Exception:
+            st.caption("Env: version info unavailable")
         
         # Token usage tracking
         if 'token_stats' not in st.session_state:
